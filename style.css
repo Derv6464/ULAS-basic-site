@@ -26,3 +26,10 @@
     position: relative;
     left: 50%;
   }
+
+.job{
+    width: 100%;
+    border-radius: 50px;
+    background-color: #141e26;
+    padding: 50px;
+}
