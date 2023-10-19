@@ -1,0 +1,28 @@
+.contain {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    padding-left: 30px;
+
+}
+
+.section {
+    padding: 30px;
+}
+
+.center{
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+.center-container {
+    float: left;
+    position: relative;
+    left: 50%;
+  }
