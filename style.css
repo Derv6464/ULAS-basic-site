@@ -22,12 +22,6 @@
     text-align: center;
 }
 
-.center-container {
-    float: left;
-    position: relative;
-    left: 50%;
-  }
-
 .job{
     width: 100%;
     border-radius: 50px;
